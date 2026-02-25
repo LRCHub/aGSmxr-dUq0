@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンゼルシーク",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-25T16:25:04.286260Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンゼルシーク",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_エンゼルシーク_Ado.txt"
+    }
+  ]
+}
